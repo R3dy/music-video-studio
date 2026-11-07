@@ -2,7 +2,7 @@
 
 A web workspace that turns an existing song (WAV + lyrics) into a music video, one reviewable shot at a time, using your own inference providers.
 
-This repository currently contains only the product and UI specifications. No application code exists yet.
+This repository currently contains only the product and UI specifications and UI mockups. No application code exists yet.
 
 ## Specifications
 
@@ -27,3 +27,7 @@ docs/specs/
 ├── 13_Connections_and_Jobs.md     V40–V43
 └── 14_Shared_Tools.md             V44–V47
 ```
+
+## Mockups
+
+UI mockups live in [`docs/mockups/`](docs/mockups/), one image per area, named to match its spec (for example `01_Project_Setup.png` pairs with `01_Project_Setup.md`). The [mockups index](docs/mockups/README.md) shows which areas have one so far.
